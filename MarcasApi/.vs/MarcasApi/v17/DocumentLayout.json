@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B4DAE-7D9F-4955-A600-D855702696A8}|..\\MarcasApi.Tests\\MarcasApi.Tests.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi.tests\\marcascontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\migrations\\20251116071031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:migrations\\20251116071031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|c:\\users\\helen\\desktop\\development\\pruebas tecnicas\\pruebabackend\\marcasapi\\models\\marcaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FC43AB-2FFF-4720-9593-0FE37A2A5144}|MarcasApi.csproj|solutionrelative:models\\marcaauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251116071031_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Migrations\\20251116071031_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251116071031_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Migrations\\20251116071031_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251116071031_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:10:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarcasControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi.Tests\\MarcasControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MarcasApi.Tests\\MarcasControllerTests.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi.Tests\\MarcasControllerTests.cs",
+              "RelativeToolTip": "..\\MarcasApi.Tests\\MarcasControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:58:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-16T06:57:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcasAutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Controllers\\MarcasAutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarcasAutosController.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Controllers\\MarcasAutosController.cs",
+              "RelativeToolTip": "Controllers\\MarcasAutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:56:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:55:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarcaAuto.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Models\\MarcaAuto.cs",
+              "RelativeDocumentMoniker": "Models\\MarcaAuto.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Models\\MarcaAuto.cs",
+              "RelativeToolTip": "Models\\MarcaAuto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:54:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:53:28.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T06:52:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Helen\\Desktop\\Development\\PRUEBAS TECNICAS\\PruebaBackend\\MarcasApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-16T06:44:15.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
